@@ -1,0 +1,7 @@
+numero = 21
+base = 2
+
+div_inteira = numero // base
+resto = numero % base
+
+print(f"Resultado da divisão: {div_inteira}\n Resto da divisão: {resto}")
